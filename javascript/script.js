@@ -1,1 +1,1 @@
-console.log(sina);
+console.log(sin);
